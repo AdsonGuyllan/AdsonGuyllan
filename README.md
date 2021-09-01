@@ -21,6 +21,8 @@
   <img align="center" alt="AdGuy-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     -----
   <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    -----
+  <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </div>
   
   ##
