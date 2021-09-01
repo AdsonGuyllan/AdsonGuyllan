@@ -23,6 +23,10 @@
   <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     -----
   <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+    -----
+  <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    -----
+  <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
   ##
