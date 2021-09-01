@@ -20,7 +20,7 @@
     -----
   <img align="center" alt="AdGuy-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     -----
-  <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+  <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="http://www.w3.org/2000/svg">
 </div>
   
   ##
