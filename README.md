@@ -9,7 +9,11 @@
   <a href="https://github.com/adsonguyllan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adsonguyllan&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsonguyllan&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>  
+</div>
+  <div>
+  <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg">  
+  </div>
+  
 
   <div style="display: inline_block"><br>
   <img align="center" alt="AdGuy-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +32,7 @@
     -----
   <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     -----
-  <img align="center" alt="AdGuy-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
+  <img align="center" alt="AdGuy-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
   
   ##
