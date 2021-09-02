@@ -27,6 +27,8 @@
   <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     -----
   <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    -----
+  <img align="center" alt="AdGuy-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
 </div>
   
   ##
