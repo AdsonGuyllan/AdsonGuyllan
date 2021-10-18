@@ -13,21 +13,23 @@
 
   <div style="display: inline_block"><br>
   <img align="center" alt="AdGuy-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    -----
+    ---
   <img align="center" alt="AdGuy-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    -----
+    ---
   <img align="center" alt="AdGuy-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    -----
+    ---
   <img align="center" alt="AdGuy-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    -----
+    ---
+  <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+    ---
   <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    -----
+    ---
   <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-    -----
+    ---
   <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    -----
+    ---
   <img align="center" alt="AdGuy-Flutter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    -----
+    ---
   <img align="center" alt="AdGuy-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
   
