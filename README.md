@@ -1,7 +1,6 @@
 ### I'm Adson Guyllan 😎
 
-- 💻 Computer Science student
-- 🏢 Trainee at the company Luz da Esperança
+- 💻 Computer Scientist
 - 🌎 Brazilian
 - ⚽ Flamengo
 
